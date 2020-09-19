@@ -4,3 +4,4 @@
 * Enemy path created 
 * Any number of enemy1 can be spawned.
 * Lives added
+* FireTower aiming process complete - it now searches for the enemy and rotates it's turret
