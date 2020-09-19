@@ -181,7 +181,7 @@ function draw()
 			{
 				enemiesInRange.shift();
 			}
-s		}
+		}
 	}
 }
 
